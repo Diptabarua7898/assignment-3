@@ -1,0 +1,5 @@
+body{font-family: 'Poppins', sans-serif;}
+.carousel-item{ height: 42vw;background: #000;background-size: cover;position: relative;}
+.carousel-item img{ opacity: 0.6;}
+
+
